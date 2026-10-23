@@ -1,0 +1,30 @@
+# ExactFit Filters
+
+> ExactFit Filters sells exact-size 1-inch pleated furnace/AC air filters (6-packs) in MERV 8, 11 and 13, shipped directly from suppliers to customers in the United States (USD) and Canada (CAD).
+
+## Products
+
+- [16x25x1 MERV 8 air filter 6-pack](https://exhalemarketing.github.io/exactfit-filters/16x25x1-merv-8-air-filter-6-pack/): actual size 15.5x24.5x0.75 in; $59.99 USD / C$86.99 CAD; SKU EF-16X25X1-M8-6
+- [16x25x1 MERV 11 air filter 6-pack](https://exhalemarketing.github.io/exactfit-filters/16x25x1-merv-11-air-filter-6-pack/): actual size 15.5x24.5x0.75 in; $70.99 USD / C$101.99 CAD; SKU EF-16X25X1-M11-6
+- [16x25x1 MERV 13 air filter 6-pack](https://exhalemarketing.github.io/exactfit-filters/16x25x1-merv-13-air-filter-6-pack/): actual size 15.5x24.5x0.75 in; $80.99 USD / C$115.99 CAD; SKU EF-16X25X1-M13-6
+- [20x25x1 MERV 8 air filter 6-pack](https://exhalemarketing.github.io/exactfit-filters/20x25x1-merv-8-air-filter-6-pack/): actual size 19.5x24.5x0.75 in; $64.99 USD / C$93.99 CAD; SKU EF-20X25X1-M8-6
+- [20x25x1 MERV 11 air filter 6-pack](https://exhalemarketing.github.io/exactfit-filters/20x25x1-merv-11-air-filter-6-pack/): actual size 19.5x24.5x0.75 in; $76.99 USD / C$110.99 CAD; SKU EF-20X25X1-M11-6
+- [20x25x1 MERV 13 air filter 6-pack](https://exhalemarketing.github.io/exactfit-filters/20x25x1-merv-13-air-filter-6-pack/): actual size 19.5x24.5x0.75 in; $87.99 USD / C$124.99 CAD; SKU EF-20X25X1-M13-6
+- [14x20x1 MERV 8 air filter 6-pack](https://exhalemarketing.github.io/exactfit-filters/14x20x1-merv-8-air-filter-6-pack/): actual size 13.5x19.5x0.75 in; $59.99 USD / C$86.99 CAD; SKU EF-14X20X1-M8-6
+- [14x20x1 MERV 11 air filter 6-pack](https://exhalemarketing.github.io/exactfit-filters/14x20x1-merv-11-air-filter-6-pack/): actual size 13.5x19.5x0.75 in; $70.99 USD / C$101.99 CAD; SKU EF-14X20X1-M11-6
+- [14x20x1 MERV 13 air filter 6-pack](https://exhalemarketing.github.io/exactfit-filters/14x20x1-merv-13-air-filter-6-pack/): actual size 13.5x19.5x0.75 in; $80.99 USD / C$115.99 CAD; SKU EF-14X20X1-M13-6
+- [20x20x1 MERV 8 air filter 6-pack](https://exhalemarketing.github.io/exactfit-filters/20x20x1-merv-8-air-filter-6-pack/): actual size 19.5x19.5x0.75 in; $49.99 USD / C$74.99 CAD; SKU EF-20X20X1-M8-6
+- [20x20x1 MERV 11 air filter 6-pack](https://exhalemarketing.github.io/exactfit-filters/20x20x1-merv-11-air-filter-6-pack/): actual size 19.5x19.5x0.75 in; $59.99 USD / C$86.99 CAD; SKU EF-20X20X1-M11-6
+- [20x20x1 MERV 13 air filter 6-pack](https://exhalemarketing.github.io/exactfit-filters/20x20x1-merv-13-air-filter-6-pack/): actual size 19.5x19.5x0.75 in; $67.99 USD / C$97.99 CAD; SKU EF-20X20X1-M13-6
+
+## Guides
+
+- [Size & MERV guide](https://exhalemarketing.github.io/exactfit-filters/size-merv-guide/): nominal vs actual size, choosing MERV 8/11/13
+- [How ordering works](https://exhalemarketing.github.io/exactfit-filters/how-ordering-works/)
+- [Shipping US & Canada](https://exhalemarketing.github.io/exactfit-filters/shipping/)
+- [Contact & returns](https://exhalemarketing.github.io/exactfit-filters/contact-returns/)
+
+## Notes
+
+- Product images labelled 'Representative image' are AI-generated generic filters, not photos of a specific brand.
+- Prices checked 2026-10-23; orders are confirmed by email before payment.
